@@ -1,0 +1,3 @@
+[submodule "my_inbox_impl"]
+	path = my_inbox_impl
+	url = https://github.com/KrapaKarthik09/team8-yotov-template-repository.git
